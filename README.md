@@ -1,2 +1,2 @@
 # Google-Store-Locator (NodeJS + MongoDB + MapsAPI)
-![Alt text](/Demo-Store-Locator "Optional Title")
+![Alt text](/Demo-Store-Locator.gif "Optional Title")
