@@ -8,7 +8,7 @@ const GoogleMapsService = require('./api/services/googleMapsService');
 const googleMapsService = new GoogleMapsService();
 require('dotenv').config();
 
-mongoose.connect('mongodb+srv://anixane:Animesh27@cluster0.gbgco.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('[mongoDB connection URL]', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true
